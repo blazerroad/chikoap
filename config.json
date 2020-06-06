@@ -1,10 +1,10 @@
 {
-  'version' : 1,
-  'force' : 1,
-  'updateUrl' : 'https://white-desert-0dc87c01e.azurestaticapps.net/',
-  'dbUri' : 'https://chikodb.documents.azure.com:443/',
-  'tokenUri' : 'https://chikofapp.azurewebsites.net/api/cosmosToken?code=35v1W5Uge4aWql3ohXYKJgMF37xlG9nYcvymlZjaxbV7Xnamg5tNVQ==',
-  'smsUri' : 'https://api.ghasedak.io/v2/verification/send/simple',
-  'configUri' : 'https://white-desert-0dc87c01e.azurestaticapps.net/config.json',
-  'confVersionUri' : 'https://white-desert-0dc87c01e.azurestaticapps.net/configVersion.json'
+  "version" : 1,
+  "force" : 1,
+  "updateUrl" : "https://white-desert-0dc87c01e.azurestaticapps.net/",
+  "dbUri" : "https://chikodb.documents.azure.com:443/",
+  "tokenUri" : "https://chikofapp.azurewebsites.net/api/cosmosToken?code=35v1W5Uge4aWql3ohXYKJgMF37xlG9nYcvymlZjaxbV7Xnamg5tNVQ==",
+  "smsUri" : "https://api.ghasedak.io/v2/verification/send/simple",
+  "configUri" : "https://white-desert-0dc87c01e.azurestaticapps.net/config.json",
+  "confVersionUri" : "https://white-desert-0dc87c01e.azurestaticapps.net/configVersion.json"
 }
