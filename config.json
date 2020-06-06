@@ -1,6 +1,6 @@
 {
-  version : 1,
-  dbUri : '',
-  tokenUri : '',
-  smsUri : ''
+  'version' : 1,
+  'dbUri' : '',
+  'tokenUri' : '',
+  'smsUri' : ''
 }
