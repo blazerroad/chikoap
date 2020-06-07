@@ -7,5 +7,5 @@
   "smsUri" : "https://api.ghasedak.io/v2/verification/send/simple",
   "configUri" : "https://white-desert-0dc87c01e.azurestaticapps.net/config.json",
   "confVersionUri" : "https://white-desert-0dc87c01e.azurestaticapps.net/configVersion.json",
-   "addGraphUserUri" : "http://localhost:7071/api/addUser"
+    "dbGraphUri" : "http://localhost:7071/api/GraphQuiry"
 }
