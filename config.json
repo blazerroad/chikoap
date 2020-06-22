@@ -7,5 +7,5 @@
   "smsUri" : "https://api.ghasedak.io/v2/verification/send/simple",
   "configUri" : "https://white-desert-0dc87c01e.azurestaticapps.net/config.json",
   "confVersionUri" : "https://white-desert-0dc87c01e.azurestaticapps.net/configVersion.json",
-    "dbGraphUri" : "http://localhost:7071/api/GraphQuiry"
+    "dbGraphUri" : "https://chikofapp.azurewebsites.net/api/AzureGermlin?code=lzi3arxNGGfDJycyWGUpcWrKgXJyjLRM87qZapUaQWldyhPbDU8Xaw=="
 }
